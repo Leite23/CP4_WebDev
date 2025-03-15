@@ -1,6 +1,6 @@
 # Coolsolelog
 
-Um console.log mais divertido com ASCII art e cores!
+Um console.log mais divertido com ASCII art e cores
 
 ## Instalação
 
