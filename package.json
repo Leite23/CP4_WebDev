@@ -1,0 +1,25 @@
+{
+  "name": "CP4_WebDev",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leite23/CP4_WebDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leite23/CP4_WebDev/issues"
+  },
+  "homepage": "https://github.com/Leite23/CP4_WebDev#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cows": "^3.0.1"
+  }
+}
